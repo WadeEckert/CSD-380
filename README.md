@@ -1,2 +1,8 @@
-# CSD-380
-Wade Eckert's repository for CSD-380 - DevOps
+# CSD 380 DevOps
+
+Repository for Wade Eckert for CSD 380 - DevOps.
+
+## Contributors
+
+    * Wade Eckert
+    * Professor Nathan Braun
