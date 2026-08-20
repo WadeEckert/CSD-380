@@ -324,6 +324,6 @@ Overall, the course provided a broader understanding of DevOps as a combination 
 
 ## Author
 
-**Wade Eckert**
-Bellevue University
+**Wade Eckert**  
+Bellevue University  
 Bachelor of Science in Software Development and Mathematics
